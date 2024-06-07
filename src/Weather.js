@@ -76,7 +76,6 @@ export default function Weather() {
           on Netlify
         </a>
       </footer>
-      ;
     </div>
   );
 }
