@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 
 // footer links, how to make it look right without being functional?
 
