@@ -63,7 +63,7 @@ export default function Weather() {
             </a>
             and website hosted
             <a
-              href="https://shecodes-vanilla-weather-app.netlify.app/"
+              href="https://master--react-weather-app-ea.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
